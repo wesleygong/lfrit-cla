@@ -1,1 +1,1 @@
-# lfrit-cla
+# lfrit-cla huzzah
